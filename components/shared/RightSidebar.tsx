@@ -24,11 +24,11 @@ const qlinks = [
 ];
 
 const popTags = [
-  { _id: 1, name: "javascript", totalques: 5 },
-  { _id: 2, name: "react", totalques: 3 },
-  { _id: 3, name: "next", totalques: 4 },
-  { _id: 4, name: "vue", totalques: 2 },
-  { _id: 5, name: "redux", totalques: 10 },
+  { _id: "1", name: "javascript", totalques: 5 },
+  { _id: "2", name: "react", totalques: 3 },
+  { _id: "3", name: "next", totalques: 4 },
+  { _id: "4", name: "vue", totalques: 2 },
+  { _id: "5", name: "redux", totalques: 10 },
 ];
 
 const RightSidebar = () => {
